@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Minghao Ma is a PhD candidate in Translation Studies at [Shanghai International Studies University](http://en.shisu.edu.cn/). His ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
+Minghao Ma is a PhD candidate in Translation Studies at (School of English Studies)[http://www.ses.shisu.edu.cn/], [Shanghai International Studies University](http://en.shisu.edu.cn/). His ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 Research Interests
 - *Audiovisual Translation*: Subtitling, fansubbing and film festival translation 
 - *Media Accessibility*: audio description and subtitle for d/Deaf and hard-of-hearing
-- *Research Methods*: corpus and eye-tracking
+- *Research Methods*: eye-tracking and corpus
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
@@ -59,14 +59,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China. 
 
 # 💬 Presentations
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.11*, The Subtitler's Invisibility: The Role of Non-Professional Subtitlers in Chinese Audiovisual Industry, Language and Media,Budapest, Hungary, 13-15 November, 2024. (co-presenter)
+- *2024.03*, Unveiling the Tech-Savvy Side of Non-Professional Subtitlers: A Survey Study on Fansub Groups in China, Interdisciplinary Symposium on MachineTranslation and Digital Humanities, National University of Singapore, Singapore, 22-23 March, 2024. (main presenter)
+- *2022.06*, Research on the Subtitle Translation of Shanghai International Film Festival from the Perspective of Translation Project Management Theory,  10th Asia-Pacific Translation and Interpreting Forum (APTIF 10) (organised by Secretariat of the Translators Association of China), Online, 25-26 June, 2022.
 
 # 💻 Profssional Activities
+**Research Experience**
+- *2022.12 - now*, research associate, The cognitive processing of English to Chinese Subtitling: Evidence from eye tracking, project of key lab of BI-AI collaborated information behavior of Shanghai International Studies University (2022KFKT008)
+- *2021.09 - now*, research assisstant, General history of audio description in China, subproject of China National Social Science Foundation Major Research Project “General History of Film Translation in China” (21BYY063)
+- *2021.09 - now*, research assisstant, Empirical Research on Post-Editing from the Perspective of Cognitive Ergonomics, China National Social Science Foundation Research Project (2021BYY063)
+
 **Membership**
-- *2025.01 - now*, member of the European Association for Studies in Screen Translation (ESIST), UK.
-- *2024.06 - now*, student member of the Translators Association of China, China.
-- *2024.06 - now*, member of the Audio-Visual Translation Committee (AVTC) under Translators Association of China, China.
+- *2025.01 - present*, member of the European Association for Studies in Screen Translation (ESIST), UK.
+- *2024.06 - present*, student member of the Translators Association of China, China.
+- *2024.06 - present*, member of the Audio-Visual Translation Committee (AVTC) under Translators Association of China, China.
 
 **Translation Practice**
 - *2021 - 2024*, corordinator of subtitle programmes and subtitler, Shanghai International Film Festival (SIFF), China.
