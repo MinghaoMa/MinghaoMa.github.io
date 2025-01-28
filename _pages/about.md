@@ -21,27 +21,30 @@ I am a PhD candidate in Translation Studies at [School of English Studies](http:
 
 My research interests includes audiovisual translation (with a focus on subtitling), media accessibility and translation process. 
 
-# 🔥 Research Area
+# 🔥 Research Areas
 - *Audiovisual Translation*: Subtitling, fansubbing and film festival translation 
 - *Media Accessibility*: audio description and subtitle for d/Deaf and hard-of-hearing
 - *Research Methods*: eye-tracking and corpus
 
 # 📝 Publications 
-**Journal Artciles**
-[Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
+**Journal Artcile**
+- *2025* [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
 Weiqing Xiao, **Minghao Ma**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+**Book Chapter**
+-*2022* Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Book Review**
+- *2024* [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
+
+Zhen Hu,**Minghao Ma**
+- *2024* [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
+
+**Minghao Ma**, Zhen Hu
 
 # 🎖 Honors and Awards
-- *2024.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* Joint PhD Training Programme (funded by China Scholarship Council). 
 
 # 📖 Educations
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
