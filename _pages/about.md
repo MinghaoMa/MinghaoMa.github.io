@@ -34,7 +34,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2022* Weiqing Xiao, **Minghao Ma**. Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
 
 **Book Reviews**
-- *2024* Zhen Hu,**Minghao Ma**. [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
+- *2024* Zhen Hu,**Minghao Ma**. [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
 
 - *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
 
