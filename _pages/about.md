@@ -17,23 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Minghao Ma is a PhD candidate in Translation Studies at (School of English Studies)[http://www.ses.shisu.edu.cn/], [Shanghai International Studies University](http://en.shisu.edu.cn/). His ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
+I am a PhD candidate in Translation Studies at [School of English Studies](http://www.ses.shisu.edu.cn/), [Shanghai International Studies University](http://en.shisu.edu.cn/), supervised by Professor [Weiqing Xiao](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm). My ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests includes audiovisual translation (with a focus on subtitling), media accessibility and translation process. 
 
-
-# 🔥 Research Interests
+# 🔥 Research Area
 - *Audiovisual Translation*: Subtitling, fansubbing and film festival translation 
 - *Media Accessibility*: audio description and subtitle for d/Deaf and hard-of-hearing
 - *Research Methods*: eye-tracking and corpus
+
 # 📝 Publications 
+**Journal Artciles**
+[Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Weiqing Xiao, **Minghao Ma**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
