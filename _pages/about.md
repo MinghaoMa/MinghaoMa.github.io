@@ -27,13 +27,13 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *Research Methods*: eye-tracking and corpus
 
 # 📝 Publications 
-**Journal Artcile**
+**Journal Artciles**
 - *2025* Weiqing Xiao, **Minghao Ma** [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
-**Book Chapter**
--*2022* Weiqing Xiao, **Minghao Ma** Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
+**Book Chapters**
+- *2022* Weiqing Xiao, **Minghao Ma** Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
 
-**Book Review**
+**Book Reviews**
 - *2024* Zhen Hu,**Minghao Ma** [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
 
 - *2024* **Minghao Ma**, Zhen Hu [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
@@ -58,7 +58,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2024.03*, Unveiling the Tech-Savvy Side of Non-Professional Subtitlers: A Survey Study on Fansub Groups in China, Interdisciplinary Symposium on MachineTranslation and Digital Humanities, National University of Singapore, Singapore, 22-23 March, 2024. (main presenter)
 - *2022.06*, Research on the Subtitle Translation of Shanghai International Film Festival from the Perspective of Translation Project Management Theory,  10th Asia-Pacific Translation and Interpreting Forum (APTIF 10) (organised by Secretariat of the Translators Association of China), Online, 25-26 June, 2022.
 
-# 💻 Profssional Activities
+# 💻 Professional Activities
 **Research Experience**
 - *2022.12 - now*, research associate, The cognitive processing of English to Chinese Subtitling: Evidence from eye tracking, project of key lab of BI-AI collaborated information behavior of Shanghai International Studies University (2022KFKT008)
 - *2021.09 - now*, research assisstant, General history of audio description in China, subproject of China National Social Science Foundation Major Research Project “General History of Film Translation in China” (21BYY063)
