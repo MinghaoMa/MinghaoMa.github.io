@@ -28,15 +28,15 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 # 📝 Publications 
 **Journal Artciles**
-- *2025* Weiqing Xiao, **Minghao Ma** [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
+- *2025* Weiqing Xiao, **Minghao Ma**. [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
 **Book Chapters**
-- *2022* Weiqing Xiao, **Minghao Ma** Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
+- *2022* Weiqing Xiao, **Minghao Ma**. Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
 
 **Book Reviews**
-- *2024* Zhen Hu,**Minghao Ma** [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
+- *2024* Zhen Hu,**Minghao Ma**. [Book Review: Translation, Adaptation and Digital Media](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
 
-- *2024* **Minghao Ma**, Zhen Hu [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
+- *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
 
 # 🎖 Honors and Awards
 - *2024.10* Joint PhD Training Programme (funded by China Scholarship Council). 
