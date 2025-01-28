@@ -47,7 +47,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
+  supervisor: [Xiao Weiqing](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm)
+- *2024.10 - 2025.10*, Visiting PhD student (funded by China Scholarship Council), University of Warwick, Coventry, UK.
+  host supervisor: [David Orrego-carmona](https://warwick.ac.uk/fac/arts/modernlanguages/academic/davidorregocarmona/) 
+- *2018.09 - 2021.03*, Master of Arts in Foreign Languages and Applied Linguistics (Translation), Shanghai University of International Business and Economics, Shanghai, China.
+  supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China. 
 
 # 💬 Invited Talks
