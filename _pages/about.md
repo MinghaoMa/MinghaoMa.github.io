@@ -62,5 +62,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Porfssional Activities
+[**Membership**]
+- *2025.01 - now*, member of the European Association for Studies in Screen Translation (ESIST), UK.
+- *2024.06 - now*, student member of the Translators Association of China, China.
+- *2024.06 - now*, member of the Audio-Visual Translation Committee (AVTC) under Translators Association of China, China.
+[**Translation Practice**]
+- *2021 - 2024*, corordinator of subtitle programmes and subtitler, Shanghai International Film Festival (SIFF), China.
