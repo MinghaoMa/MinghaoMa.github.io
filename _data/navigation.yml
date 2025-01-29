@@ -8,8 +8,11 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Honors and Awards"
+  
+  - title: "Working Experience"
+    url: "/#-working-experiences"
+  
+  - title: "Scholarships and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
