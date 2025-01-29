@@ -41,7 +41,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 # 🎖 Scholarships and Awards
 - *2024.10* Joint PhD Training Programme Scholarship (funded by China Scholarship Council).
 - *2020.12* China National Scholarship of Postgraduates (awarded by Ministry of Education of the People's Republic of China and Shanghai University of International Business and Economics)
-- 
+
 # 📖 Educations
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
 
@@ -56,7 +56,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
    Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
 
-# 💬 Presentations
+# 💬 Conference Presentations
 - *2024.11*, The Subtitler's Invisibility: The Role of Non-Professional Subtitlers in Chinese Audiovisual Industry, [Language and Media](https://www.languages-media.com/conference/programme-2024),Budapest, Hungary, 13-15 November, 2024. (co-presenter)
 - *2024.03*, Unveiling the Tech-Savvy Side of Non-Professional Subtitlers: A Survey Study on Fansub Groups in China, [Interdisciplinary Symposium on MachineTranslation and Digital Humanities](https://fass.nus.edu.sg/cs/wp-content/uploads/sites/3/2024/03/Interdisciplinary-Symposium-on-Machine-Translation-and-Digital-Humanities-Full.pdf), National University of Singapore, Singapore, 22-23 March, 2024. (main presenter)
 - *2022.06*, Research on the Subtitle Translation of Shanghai International Film Festival from the Perspective of Translation Project Management Theory,  10th Asia-Pacific Translation and Interpreting Forum (APTIF 10) (organised by Secretariat of the Translators Association of China), Online, 25-26 June, 2022.
