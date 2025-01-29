@@ -45,6 +45,8 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
 
    Supervisor: [Xiao Weiqing](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm)
+
+   Co-supervisor: [Chen Kefang](https://english.zyufl.edu.cn/2022/0326/c2906a47239/page.htm)
 - *2024.10 - 2025.10*, Visiting PhD student (funded by China Scholarship Council), University of Warwick, Coventry, UK.
 
    Host supervisor: [David Orrego-carmona](https://warwick.ac.uk/fac/arts/modernlanguages/academic/davidorregocarmona/) 
