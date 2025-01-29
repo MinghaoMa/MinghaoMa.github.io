@@ -40,7 +40,8 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 # 🎖 Scholarships and Awards
 - *2024.10* Joint PhD Training Programme (funded by China Scholarship Council).
-
+- *2020.12* China National Scholarship of Postgraduates (awarded by Shanghai University of International Business and Economics)
+- 
 # 📖 Educations
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
 
