@@ -39,8 +39,8 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
 
 # 🎖 Honors and Awards
-- *2024.10* Joint PhD Training Programme (funded by China Scholarship Council). 
-# 📖 Wroking Experience
+- *2024.10* Joint PhD Training Programme (funded by China Scholarship Council).
+- 
 # 📖 Educations
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
 
@@ -54,9 +54,6 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
    Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
-
-
-
 
 # 💬 Presentations
 - *2024.11*, The Subtitler's Invisibility: The Role of Non-Professional Subtitlers in Chinese Audiovisual Industry, Language and Media,Budapest, Hungary, 13-15 November, 2024. (co-presenter)
