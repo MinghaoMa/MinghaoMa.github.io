@@ -40,7 +40,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 # 🎖 Honors and Awards
 - *2024.10* Joint PhD Training Programme (funded by China Scholarship Council). 
-
+# 📖 Wroking Experience
 # 📖 Educations
 - *2021.06 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
 
@@ -54,7 +54,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
    Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
-# 📖 Wroking Experience
+
 
 
 
