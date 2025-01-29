@@ -37,8 +37,6 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2024* Zhen Hu,**Minghao Ma**. [Book Review: Writing a Translation Commentary](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
 
 - *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
-#  Working Experience
-
 
 # 🎖 Scholarships and Awards
 - *2024.10* Joint PhD Training Programme (funded by China Scholarship Council).
