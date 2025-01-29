@@ -67,10 +67,10 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2021.09 - now*, research assisstant, General history of audio description in China, subproject of China National Social Science Foundation Major Research Project “General History of Film Translation in China” (21BYY063)
 - *2021.09 - now*, research assisstant, Empirical Research on Post-Editing from the Perspective of Cognitive Ergonomics, China National Social Science Foundation Research Project (2021BYY063)
 
-**Membership**
+**Memberships**
 - *2025.01 - present*, member of the European Association for Studies in Screen Translation (ESIST), UK.
 - *2024.06 - present*, student member of the Translators Association of China, China.
 - *2024.06 - present*, member of the Audio-Visual Translation Committee (AVTC) under Translators Association of China, China.
 
-**Translation Practice**
+**Translation Practices**
 - *2021 - 2024*, corordinator of subtitle programmes and subtitler, Shanghai International Film Festival (SIFF), China.
