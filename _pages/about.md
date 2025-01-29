@@ -53,7 +53,10 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2018.09 - 2021.03*, Master of Arts in Foreign Languages and Applied Linguistics (Translation), Shanghai University of International Business and Economics, Shanghai, China.
 
    Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
-- *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China. 
+- *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
+# 📖 Wroking Experience
+
+
 
 # 💬 Presentations
 - *2024.11*, The Subtitler's Invisibility: The Role of Non-Professional Subtitlers in Chinese Audiovisual Industry, Language and Media,Budapest, Hungary, 13-15 November, 2024. (co-presenter)
