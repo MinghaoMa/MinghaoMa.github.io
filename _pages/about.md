@@ -31,6 +31,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2025* Weiqing Xiao, **Minghao Ma***. [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
 **Book Chapters**
+- *In Press* Zhen Hu, **Minghao Ma**,ALEJANDRO BOLAÑOS GARCÍA-ESCRIBANO.Small screens and big screens: the status quo of interlingual subtitling practices in the Chinese mediascape.
 - *2022* Weiqing Xiao, **Minghao Ma**. Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
 
 **Book Reviews**
