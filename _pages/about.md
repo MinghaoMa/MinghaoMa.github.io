@@ -28,6 +28,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 # 📝 Publications 
 **Journal Artciles**
+-- *2025* Weiqing Xiao, Xinyuan Liu, **Minghao Ma***. [The impact of visual information and translation experience on subtitling effort: a pilot study](https://www.tandfonline.com/doi/pdf/10.1080/13556509.2025.2592644)
 - *2025* Weiqing Xiao, **Minghao Ma***. [Unveiling the tech-savvy side of non-professional subtitlers: A survey study on fansub groups in China](https://revistas.uva.es/index.php/hermeneus/article/view/9718)
 
 **Book Chapters**
