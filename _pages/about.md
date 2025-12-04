@@ -60,7 +60,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 # 💬 Conference Presentations
 - *2025.06*, The impact of visual information on translating
-metaphors in subtitles: an eye-tracking study, [Fifth International Conference on Translation, Interpreting and Cognition](https://www.uia.no/english/about-uia/faculty/humanities-and-education/events/course-conference-seminar/programme_27_05.pdf), Norway, Kristiansand, 12-4 June, 2025. (presenter)
+metaphors in subtitles: an eye-tracking study, [Fifth International Conference on Translation, Interpreting and Cognition](https://www.uia.no/english/about-uia/faculty/humanities-and-education/events/course-conference-seminar/programme_27_05.pdf), Norway, Kristiansand, 2-4 June, 2025. (presenter)
 - *2024.11*, The Subtitler's Invisibility: The Role of Non-Professional Subtitlers in Chinese Audiovisual Industry, [Language and Media](https://www.languages-media.com/conference/programme-2024),Budapest, Hungary, 13-15 November, 2024. (co-presenter)
 - *2024.03*, Unveiling the Tech-Savvy Side of Non-Professional Subtitlers: A Survey Study on Fansub Groups in China, [Interdisciplinary Symposium on MachineTranslation and Digital Humanities](https://fass.nus.edu.sg/cs/wp-content/uploads/sites/3/2024/03/Interdisciplinary-Symposium-on-Machine-Translation-and-Digital-Humanities-Full.pdf), National University of Singapore, Singapore, 22-23 March, 2024. (main presenter)
 - *2022.06*, Research on the Subtitle Translation of Shanghai International Film Festival from the Perspective of Translation Project Management Theory,  10th Asia-Pacific Translation and Interpreting Forum (APTIF 10) (organised by Secretariat of the Translators Association of China), Online, 25-26 June, 2022.
