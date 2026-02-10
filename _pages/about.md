@@ -33,7 +33,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 **Book Chapters**
 - *2026* Zhen Hu, **Minghao Ma**,Alejandro Bolaños García-Escribano. [Small screens and big screens: the status quo of interlingual subtitling practices in the Chinese mediascape](https://link.springer.com/chapter/10.1007/978-981-95-4905-4_12). In Yang, Fan, Wang, Yu, Li, Defeng. (eds) Audiovisual Translation. New Frontiers in Translation Studies. Springer, Singapore.
-- *2022* Weiqing Xiao, **Minghao Ma**. Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation, Wuhan: Wuhan University Press. (Published in Chinese)
+- *2022* Weiqing Xiao, **Minghao Ma**. Subtitle Translation of Metaphors in Dialect Movies: A Case Study of Shanghai Dialect Movie B for Busy「方言电影中隐喻的字幕翻译——以沪语电影《爱情神话》为例」. In Juan Zhang and Jianghua Qin(eds.), Frontier Research on New Media Translation「新媒体翻译研究前沿」, Wuhan: Wuhan University Press. (Published in Chinese)
 
 **Book Reviews**
 - *2024* Zhen Hu,**Minghao Ma**. [Book Review: Writing a Translation Commentary](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
