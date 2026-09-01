@@ -16,8 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Minghao Ma, PhD, Lecturer of [Department of Foreign Languages](https://wyx.shcc.edu.cn/main.htm), [Shanghai Customs University](https://en.shcc.edu.cn/), China. 
 
-I am a PhD candidate in Translation Studies at [School of English Studies](http://www.ses.shisu.edu.cn/), [Shanghai International Studies University](http://en.shisu.edu.cn/), supervised by Professor [Weiqing Xiao](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm). My ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
+I hold a PhD in Translation Studies at [School of English Studies](http://www.ses.shisu.edu.cn/), [Shanghai International Studies University](http://en.shisu.edu.cn/), supervised by Professor [Weiqing Xiao](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm). My ongoing PhD project is utilising the eye tracker to explore the translation process of subtitling from English to Chinese.
 
 My research interests includes audiovisual translation (with a focus on subtitling), media accessibility and translation process. 
 
