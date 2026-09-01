@@ -41,7 +41,7 @@ My research interests includes audiovisual translation (with a focus on subtitli
    Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
 - *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
 
-# 💼Experience
+# 💼 Experience
 - *2026.09 - now*, Lecturer, Department of Foreign Languages, Shanghai Customs Univeristy, Shanghai, China
 
 # 📝 Publications 
