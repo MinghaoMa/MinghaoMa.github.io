@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "MA Minghao"
-description              : "PhD Candidate at Shanghai International Studies University "
+description              : "Lecturer at Shanghai Customs University "
 repository               : "MinghaoMa/minghaoma.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "马鸣皓 MA Minghao"
   avatar           : "images/photo2025.jpg"
-  bio              : "Shanghai International Studies University"
+  bio              : "Shanghai Customs University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
