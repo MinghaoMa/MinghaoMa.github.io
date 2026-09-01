@@ -27,6 +27,23 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *Media Accessibility*: audio description and subtitle for d/Deaf and hard-of-hearing
 - *Research Methods*: eye-tracking and corpus
 
+# 📖 Educations
+- *2021.09 - 2026.06*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
+
+   Supervisor: [Xiao Weiqing](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm)
+
+   Co-supervisor: [Chen Kefang](https://english.zyufl.edu.cn/2022/0326/c2906a47239/page.htm)
+- *2024.10 - 2025.10*, Visiting PhD student (funded by China Scholarship Council), University of Warwick, Coventry, UK.
+
+   Host supervisor: [David Orrego-carmona](https://warwick.ac.uk/fac/arts/modernlanguages/academic/davidorregocarmona/) 
+- *2018.09 - 2021.03*, Master of Arts in Foreign Languages and Applied Linguistics (Translation), Shanghai University of International Business and Economics, Shanghai, China.
+
+   Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
+- *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
+
+# 💼Experience
+- *2026.09 - now*, Lecturer, Department of Foreign Languages, Shanghai Customs Univeristy, Shanghai, China
+
 # 📝 Publications 
 **Journal Artciles**
 - *2025* Weiqing Xiao, Xinyuan Liu, **Minghao Ma***. [The impact of visual information and translation experience on subtitling effort: a pilot study](https://www.tandfonline.com/doi/pdf/10.1080/13556509.2025.2592644)
@@ -40,27 +57,6 @@ My research interests includes audiovisual translation (with a focus on subtitli
 - *2024* Zhen Hu,**Minghao Ma**. [Book Review: Writing a Translation Commentary](https://www.tandfonline.com/doi/full/10.1080/0907676X.2024.2358612)
 
 - *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
-
-# 💼Experience
-- *2026.09 - now*, Lecturer, Department of Foreign Languages, Shanghai Customs Univeristy, Shanghai, China
-
-# 🏅Scholarships and Awards
-- *2024.10* Joint PhD Training Programme Scholarship (funded by China Scholarship Council).
-- *2020.12* China National Scholarship of Postgraduates (awarded by Ministry of Education of the People's Republic of China and Shanghai University of International Business and Economics)
-
-# 📖 Educations
-- *2021.09 - now*, PhD in English Language and Literature (Translation), Shanghai International Studies University, Shanghai, China.
-
-   Supervisor: [Xiao Weiqing](http://www.ses.shisu.edu.cn/_t8/04/b8/c10882a1208/page.htm)
-
-   Co-supervisor: [Chen Kefang](https://english.zyufl.edu.cn/2022/0326/c2906a47239/page.htm)
-- *2024.10 - 2025.10*, Visiting PhD student (funded by China Scholarship Council), University of Warwick, Coventry, UK.
-
-   Host supervisor: [David Orrego-carmona](https://warwick.ac.uk/fac/arts/modernlanguages/academic/davidorregocarmona/) 
-- *2018.09 - 2021.03*, Master of Arts in Foreign Languages and Applied Linguistics (Translation), Shanghai University of International Business and Economics, Shanghai, China.
-
-   Supervisor: [Hu Xiaoying](https://www.suibe.edu.cn/wyxy/2021/0527/c17714a137985/page.htm)
-- *2014.09 - 2018.06*, Bachelor of Engineering in Computer Science and Technology, Shanghai University, Shanghai, China.
 
 # 💬 Conference Presentations
 - *2025.06*, The impact of visual information on translating
@@ -86,3 +82,7 @@ metaphors in subtitles: an eye-tracking study, [Fifth International Conference o
 
 **Translation Practices**
 - *2021 - 2024*, corordinator of subtitle programmes and subtitler, Shanghai International Film Festival (SIFF), China.
+
+# 🏅Scholarships and Awards
+- *2024.10* Joint PhD Training Programme Scholarship (funded by China Scholarship Council).
+- *2020.12* China National Scholarship of Postgraduates (awarded by Ministry of Education of the People's Republic of China and Shanghai University of International Business and Economics)
