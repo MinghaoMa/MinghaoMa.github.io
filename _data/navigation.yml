@@ -6,17 +6,20 @@ main:
   - title: "Research Areas"
     url: "/#-research-areas"
 
-  - title: "Publications"
-    url: "/#-publications"
-  
-  - title: "Scholarships and Awards"
-    url: "/#-scholarships-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Experience"
+    url: "/#-experience"
+    
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Conference Presentations"
     url: "/#-conference-presentations"
 
   - title: "Professional Activities"
     url: "/#-professional-activities"
+  
+  - title: "Scholarships and Awards"
+    url: "/#-scholarships-and-awards"
