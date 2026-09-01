@@ -41,6 +41,9 @@ My research interests includes audiovisual translation (with a focus on subtitli
 
 - *2024* **Minghao Ma**, Zhen Hu. [Book Review: Translation, Adaptation and Digital Media](https://journals.sagepub.com/doi/10.1177/14614448231213957)
 
+# 💼Experience
+- *2026.09 - now*, Lecturer, Department of Foreign Languages, Shanghai Customs Univeristy, Shanghai, China
+
 # 🎖 Scholarships and Awards
 - *2024.10* Joint PhD Training Programme Scholarship (funded by China Scholarship Council).
 - *2020.12* China National Scholarship of Postgraduates (awarded by Ministry of Education of the People's Republic of China and Shanghai University of International Business and Economics)
